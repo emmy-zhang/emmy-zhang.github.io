@@ -1,0 +1,10 @@
+# --- Operating System Files ---
+.DS_Store
+*.tmp
+*.bak
+
+# --- Code Editor Configurations ---
+.vscode/
+*.suo
+*.sln
+*.swp
